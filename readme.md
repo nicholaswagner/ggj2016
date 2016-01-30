@@ -1,1 +1,2 @@
-coming soon at ggj2016
+# Global Game Jam 2016 Entry.
+## Theme:  "Ritual"
