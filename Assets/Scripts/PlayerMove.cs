@@ -22,6 +22,7 @@ public class PlayerMove : NetworkBehaviour {
 		transform.Translate (x, 0, z);
 
 		if (Input.GetKeyDown (KeyCode.Space)) {
+			Debug.Log ("FIRE!");
 			CmdFire ();
 		}
 	}
